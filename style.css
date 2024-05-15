@@ -47,6 +47,7 @@ marquee {
   margin-bottom: 5%;
   margin-left: 2.4%;
   margin-right: 2.4%;
+  overflow: hidden;
 }
 
 div img{
