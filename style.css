@@ -1,0 +1,70 @@
+html, body {
+  background-color: #ac7339;
+  height: 100%;
+  text-align: center;
+}
+
+marquee {
+  position: fixed;
+  
+}
+
+#logo {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 5%;
+}
+
+#form {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.uploads {
+/*  background-color: red;*/
+  padding-left: 15%;
+  padding-right: 15%;
+  height: 80%;
+  margin-top: 2%;
+}
+
+.upload {
+  background-color: whitesmoke;
+  /*padding-left: 2.4%;
+  padding-right: 2.4%;*/
+  padding-top: 1.25%;
+  padding-bottom: 1.25%;
+  width: 28%;
+  height: 28%;
+  display: inline-block;
+/*  border: 2px solid yellow;*/
+  border-radius: 10px;
+  text-align: center;
+  vertical-align: bottom;
+  margin-bottom: 5%;
+  margin-left: 2.4%;
+  margin-right: 2.4%;
+}
+
+div img{
+  height: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: static;
+}
+
+div video{
+  height: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: static;
+}
+
+div audio{
+  display: inline-flex;
+}
